@@ -1,31 +1,31 @@
 [
   {
-  "title": "Next Gen Graphics",
-  "game": "PES 2017",
-  "description": "Sharp and vibrant graphics for a next-gen experience.",
-  "creator": "Olu2K",
-  "fps": "Low",
-  "preview": "preview.jpg",
-  "settings": "settings.txt"
-},
+    "title": "Next Gen Graphics",
+    "game": "PES 2017",
+    "description": "Sharp and vibrant graphics for a next-gen experience.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/Next%20Gen%20Graphics.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/Next%20gen%20Graphics.zip"
+  },
 
   {
-  "title": "Next Gen Lite",
-  "game": "PES 2017",
-  "description": "Light colors, graphics and visuals.",
-  "creator": "Olu2K",
-  "fps": "Low",
-  "preview": "preview.jpg",
-  "settings": "settings.txt"
-}
+    "title": "Next Gen Lite",
+    "game": "PES 2017",
+    "description": "Light colors, graphics and visuals.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/Next%20Gen%20Lite.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/Next%20gen%20Lite.zip"
+  },
 
   {
-  "title": "Realistic Broadcast",
-  "game": "PES 2017",
-  "description": "Realistic colors, graphics and visuals.",
-  "creator": "Olu2K",
-  "fps": "Low",
-  "preview": "preview.jpg",
-  "settings": "settings.txt"
-}
+    "title": "Realistic Broadcast",
+    "game": "PES 2017",
+    "description": "Realistic colors, graphics and visuals.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/Realistic%20Broadcast.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/Realistic%20Broadcast.zip"
+  }
 ]
