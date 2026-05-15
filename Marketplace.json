@@ -1,0 +1,31 @@
+[
+  {
+  "title": "Next Gen Graphics",
+  "game": "PES 2017",
+  "description": "Sharp and vibrant graphics for a next-gen experience.",
+  "creator": "Olu2K",
+  "fps": "Low",
+  "preview": "preview.jpg",
+  "settings": "settings.txt"
+},
+
+  {
+  "title": "Next Gen Lite",
+  "game": "PES 2017",
+  "description": "Light colors, graphics and visuals.",
+  "creator": "Olu2K",
+  "fps": "Low",
+  "preview": "preview.jpg",
+  "settings": "settings.txt"
+}
+
+  {
+  "title": "Realistic Broadcast",
+  "game": "PES 2017",
+  "description": "Realistic colors, graphics and visuals.",
+  "creator": "Olu2K",
+  "fps": "Low",
+  "preview": "preview.jpg",
+  "settings": "settings.txt"
+}
+]
