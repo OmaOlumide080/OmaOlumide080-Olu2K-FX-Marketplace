@@ -20,6 +20,26 @@
   },
 
   {
+    "title": "2K26 Dark",
+    "game": "NBA 2K14",
+    "description": "Dark and moody visuals for a cinematic feel.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/2K26%20Dark.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/2K26%20Dark.zip"
+  },
+
+  {
+    "title": "Foggy Broadcast",
+    "game": "NBA 2K14",
+    "description": "Lightweight fog effect for a more atmospheric broadcast feel.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/Foggy%20Broadcast.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/Foggy%20Broadcast.zip"
+  },
+
+  {
     "title": "Realistic Broadcast",
     "game": "PES 2017",
     "description": "Realistic colors, graphics and visuals.",
@@ -27,5 +47,15 @@
     "fps": "Low",
     "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/Realistic%20Broadcast.jpg",
     "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/Realistic%20Broadcast.zip"
+  },
+
+  {
+    "title": "2K26 Light",
+    "game": "NBA 2K14",
+    "description": "Light and soft colors for a 2K26-like experience.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/2K26%20Light.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/2K26%20Light.zip"
   }
 ]
