@@ -57,5 +57,15 @@
     "fps": "Low",
     "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/main/previews/2K26%20Light.jpg",
     "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/2K26%20Light.zip"
+  },
+
+  {
+    "title": "Enhanced Broadcast",
+    "game": "PES 2017",
+    "description": "Enhanced colors, graphics and visuals.",
+    "creator": "Olu2K",
+    "fps": "Low",
+    "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/refs/heads/main/previews/Enhanced%20Broadast.jpg",
+    "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/refs/heads/main/presets/Enhanced%20Broadcast.zip"
   }
 ]
