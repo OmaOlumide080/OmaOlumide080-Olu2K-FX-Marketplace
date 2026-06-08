@@ -1,6 +1,7 @@
 [
   {
     "title": "Next Gen Graphics",
+    "type":"sweetfx"
     "game": "PES 2017",
     "description": "Sharp and vibrant graphics for a next-gen experience.",
     "creator": "Olu2K",
@@ -21,6 +22,7 @@
 
 {
   "title": "Next Gen Lite",
+  "type":"sweetfx"
   "game": "PES 2017",
   "description": "Light colors, graphics and visuals.",
   "creator": "Olu2K",
@@ -31,6 +33,7 @@
 
   {
     "title": "2K26 Dark",
+    "type":"sweetfx"
     "game": "NBA 2K14",
     "description": "Dark and moody visuals for a cinematic feel.",
     "creator": "Olu2K",
@@ -41,6 +44,7 @@
 
   {
     "title": "Foggy Broadcast",
+    "type":"sweetfx"
     "game": "NBA 2K14",
     "description": "Lightweight fog effect for a more atmospheric broadcast feel.",
     "creator": "Olu2K",
@@ -51,6 +55,7 @@
 
   {
     "title": "Realistic Broadcast",
+    "type":"sweetfx"
     "game": "PES 2017",
     "description": "Realistic colors, graphics and visuals.",
     "creator": "Olu2K",
@@ -61,6 +66,7 @@
 
   {
     "title": "2K26 Light",
+    "type":"sweetfx"
     "game": "NBA 2K14",
     "description": "Light and soft colors for a 2K26-like experience.",
     "creator": "Olu2K",
@@ -71,6 +77,7 @@
 
   {
     "title": "Enhanced Broadcast",
+    "type":"sweetfx"
     "game": "PES 2017",
     "description": "Enhanced colors, graphics and visuals.",
     "creator": "Olu2K",
@@ -81,6 +88,7 @@
 
   {
   "title": "Realistic TV Broadcast",
+  "type":"sweetfx"
   "game": "NBA 2K14",
   "description": "......",
   "creator": "Olu2K",
