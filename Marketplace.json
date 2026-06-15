@@ -1,13 +1,13 @@
 [
   {
-  "title": "Anime2K V2",
+  "title": "Anime2K",
   "type": "reshade",
   "game": "NBA 2K14",
   "description": "More thicker outline and lighter than the v1",
   "creator": "Yoons",
   "fps": "High",
-  "preview": "preview.jpg",
-  "download": "settings.txt"
+  "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/refs/heads/main/previews/Anime2K%20V2.jpg",
+  "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/releases/download/1/Anime2K.zip"
 },
   {
     "title": "Next Gen Graphics",
@@ -20,17 +20,6 @@
     "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/raw/main/presets/Next%20gen%20Graphics.zip"
   },
   
-  {
-  "title": "Anime2K",
-  "type": "reshade",
-  "game": "NBA 2K14",
-  "description": "......",
-  "creator": "Yoons",
-  "fps": "High",
-  "preview": "https://raw.githubusercontent.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/refs/heads/main/previews/Anime2K.jpg",
-  "download": "https://github.com/OmaOlumide080/OmaOlumide080-Olu2K-FX-Marketplace/releases/download/1/Anime2K.zip"
-},
-
   {
   "title": "Realistic Foggy Sweetfx",
   "type":"sweetfx",
